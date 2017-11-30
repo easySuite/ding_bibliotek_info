@@ -76,9 +76,6 @@
 .pane-bibliotek-info {
   position: relative;
 }
-.pane-bibliotek-info .pane-content {
-  background-color: rgba(255, 255, 255, 0.9);
-}
 .pane-bibliotek-info .pane-content .bibliotek-info-logo {
   background-image: url("../images/dbc-logo-popup.png");
   display: block;
