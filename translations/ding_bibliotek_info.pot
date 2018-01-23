@@ -40,6 +40,6 @@ msgid "Provides information area that can be inserted to any region of the page.
 msgstr ""
 
 #: ding_bibliotek_info.info:0
-msgid "easyDDB"
+msgid "easyOPAC"
 msgstr ""
 

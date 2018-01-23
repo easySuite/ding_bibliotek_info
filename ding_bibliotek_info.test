@@ -10,7 +10,7 @@ class DingBibliotekInfoTestCase extends DrupalWebTestCase {
     return array(
       'name' => 'Ding Bibliotek Info',
       'description' => 'Ensure that the panel attached.',
-      'group' => 'easyDDB',
+      'group' => 'easyOPAC',
     );
   }
 
